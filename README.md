@@ -1,5 +1,6 @@
 # 💻 Sabrina Mayume
-Olá! Me chamo Sabrina, tenho 19 anos e sou estudante no curso de Ciência da Computação no Centro Universitário FEI em São Paulo.
+Olá! Me chamo Sabrina, tenho 19 anos e sou graduanda no curso de Ciência da Computação na FEI em São Paulo.
+
 Tenho perfil analítico, curiosidade para entender problemas e disposição para aprender novas tecnologias e transformar conhecimento em soluções.
 
 
