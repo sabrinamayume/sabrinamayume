@@ -1,4 +1,8 @@
-## Hi there 👋
+# 💻 Sabrina Mayume
+Olá! Me chamo Sabrina, tenho 19 anos e sou estudante no curso de Ciência da Computação no Centro Universitário FEI em São Paulo.
+Tenho perfil analítico, curiosidade para entender problemas e disposição para aprender novas tecnologias e transformar conhecimento em soluções.
+
+
 
 <!--
 **sabrinamayume/sabrinamayume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
